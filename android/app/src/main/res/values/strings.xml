@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">easacc_flutter_task</string>
+
+    <!-- Add these below -->
+    <string name="facebook_app_id">861788783077706</string>
+    <string name="fb_login_protocol_scheme">fb861788783077706</string>
+    <string name="facebook_client_token">a6a566173de942d6caa9ff1a51e988b4</string>
+</resources>
